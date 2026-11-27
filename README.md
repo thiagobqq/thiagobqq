@@ -7,7 +7,7 @@
                            │    ／l、　　　　 　name: thiago                                        │
                            │  （ﾟ､ ｡ ７　　　 　role: backend engineer                              │
                            │    l  ~ヽ　　　 　 focus: cloud, sre & distributed systems            │
-                           │    じしf_,)ノ　　　stack: c#, .net, postgres, docker                   │
+                           │    じしf_,)ノ　　　stack: c#, .net, ts/js, react                       │
                            │                   langs: pt-br, eng                                  │
                            │                   location: sergipe, brasil                          │
                            │                                                                      │
